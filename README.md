@@ -1,2 +1,2 @@
-# Python_gain_project
+# Python_game_project
 My python project
